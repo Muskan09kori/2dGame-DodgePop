@@ -18,3 +18,6 @@ Current Status
 Core gameplay mechanics implemented
 Collision, movement, and scoring system complete
 UI and visual polish in progress
+
+
+![image alt](https://github.com/Muskan09kori/2dGame-DodgePop/blob/f79acb6397eb39f21611fca4c8c356f9f231568e/Picture1.jpeg)
