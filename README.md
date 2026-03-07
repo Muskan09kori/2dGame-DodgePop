@@ -21,3 +21,4 @@ UI and visual polish in progress
 
 
 ![image alt](https://github.com/Muskan09kori/2dGame-DodgePop/blob/f79acb6397eb39f21611fca4c8c356f9f231568e/Picture1.jpeg)
+![image alt](https://github.com/Muskan09kori/2dGame-DodgePop/blob/a6192b13c34ae2faf130abc7c41673611a669f1f/Picture2.jpeg)
